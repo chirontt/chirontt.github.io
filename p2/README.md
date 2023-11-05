@@ -6,4 +6,4 @@ This URL is an Eclipse **software repository**; you must use it in Eclipse ([see
 
 ### Directory Contents
 
-[p2/](p2)
+[platform/](platform)

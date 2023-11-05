@@ -6,4 +6,5 @@ This URL is an Eclipse **software repository**; you must use it in Eclipse ([see
 
 ### Directory Contents
 
-[p2/](p2)
+[4.28/](4.28) - contains Eclipse [4.28](https://github.com/chirontt/eclipse.platform.releng.aggregator/releases/download/R4_28_win32_aarch64/org.eclipse.platform-4.28.zip) Platform p2 runtime repo, including `win32.aarch64` artifacts  
+[4.29/](4.29) - contains Eclipse [4.29](https://github.com/chirontt/eclipse.platform.releng.aggregator/releases/download/R4_29_win32_aarch64/org.eclipse.platform-4.29.zip) Platform p2 runtime repo, including `win32.aarch64` artifacts  
