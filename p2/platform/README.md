@@ -11,3 +11,4 @@ This URL is an Eclipse **software repository**; you must use it in Eclipse ([see
 [4.30/](4.30) - contains Eclipse [4.30](https://github.com/chirontt/eclipse.platform.releng.aggregator/releases/download/R4_30_win32_aarch64/org.eclipse.platform-4.30.zip) Platform p2 runtime repo, including `win32.aarch64` artifacts  
 [4.31/](4.31) - contains Eclipse [4.31](https://github.com/chirontt/eclipse.platform.releng.aggregator/releases/download/R4_31_win32_aarch64/org.eclipse.platform-4.31.zip) Platform p2 runtime repo, including `win32.aarch64` artifacts  
 [4.32M1/](4.32M1) - contains Eclipse `4.32M1` Platform p2 runtime repo, including `win32.aarch64` artifacts  
+[4.32M2/](4.32M2) - contains Eclipse `4.32M2` Platform p2 runtime repo, including `win32.aarch64` artifacts  
