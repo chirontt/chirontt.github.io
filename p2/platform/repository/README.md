@@ -7,3 +7,4 @@ This URL is an Eclipse **software repository**; you must use it in Eclipse ([see
 ### Directory Contents
 
 [4.33.0/](4.33.0) - contains Eclipse `4.33.0` Platform p2 repository, including `FreeBSD aarch64/x86_64` artifacts  
+[4.34.0/](4.34.0) - contains Eclipse `4.34.0` Platform p2 repository, including `FreeBSD aarch64/x86_64` artifacts  
