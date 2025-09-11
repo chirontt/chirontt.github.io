@@ -9,3 +9,4 @@ This URL is an Eclipse **software repository**; you must use it in Eclipse ([see
 [11.6.1/](11.6.1) - contains Eclipse CDT `11.6.1` p2 repository, including `FreeBSD aarch64/x86_64` artifacts  
 [12.0/](12.0) - contains Eclipse CDT `12.0` p2 composite repository, including `FreeBSD aarch64/x86_64` artifacts  
 [12.1/](12.1) - contains Eclipse CDT `12.1` p2 composite repository, including `FreeBSD aarch64/x86_64` artifacts  
+[12.2/](12.2) - contains Eclipse CDT `12.2` p2 composite repository, including `FreeBSD aarch64/x86_64` artifacts  
