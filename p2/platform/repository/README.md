@@ -11,3 +11,4 @@ This URL is an Eclipse **software repository**; you must use it in Eclipse ([see
 [4.35.0/](4.35.0) - contains Eclipse `4.35.0` Platform p2 repository, including `FreeBSD aarch64/x86_64` artifacts  
 [4.36.0/](4.36.0) - contains Eclipse `4.36.0` Platform p2 repository, including `FreeBSD aarch64/x86_64` artifacts  
 [4.37.0/](4.37.0) - contains Eclipse `4.37.0` Platform p2 repository, including `FreeBSD aarch64/x86_64` artifacts  
+[4.38.0/](4.38.0) - contains Eclipse `4.38.0` Platform p2 repository, including `FreeBSD aarch64/x86_64` artifacts  

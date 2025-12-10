@@ -7,4 +7,3 @@ This URL is an Eclipse **software repository**; you must use it in Eclipse ([see
 ### Directory Contents
 
 [repository/](repository) - contains Eclipse Platform p2 repositories, including `FreeBSD aarch64/x86_64` artifacts  
-[runtime/](runtime) - contains Eclipse Platform p2 runtime repos, including `FreeBSD aarch64/x86_64` artifacts  
